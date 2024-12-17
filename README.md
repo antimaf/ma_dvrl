@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## Quick Start
 
 ### Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/poker_ma_dvrl/blob/main/train_poker_dvrl.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/antimaf/ma_dvrl/blob/master/train_poker_dvrl.ipynb)
 
 1. Open the notebook in Google Colab
 2. Run all cells to train the model
